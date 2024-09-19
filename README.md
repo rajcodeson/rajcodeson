@@ -20,3 +20,8 @@
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg" alt="JavaScript" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/java.svg" alt="Java" style="vertical-align:top; margin:4px">
 </p>
+
+
+```bash
+## ⚡️ A Few Quick Facts
+```
